@@ -12,16 +12,15 @@ import threading
 # ▁ ▂ ▃ ▄▌▅▋▆▊▇▉█
 
 # settings
-# paste gradients in the '
-chars = ' ▏▎▍▌▋▊▉█'
+chars = ' ░▒▓█'
 # print the output to the terminal or open it as an image
-terminal = False
+terminal = True
 # quality of the image (higer is better)
-quality = 2
+quality = 3
 # path to the image file
-filepath = 'wallpaper.jpg'
+filepath = 'Path/To/Image.png'
 # path to font file
-font = ImageFont.truetype('/usr/share/fonts/TTF1/JetBrainsMonoNerdFont-Regular.ttf')
+font = ImageFont.truetype('Path/To/Font.ttf')
 
 
 # other varibles (don't touch)
