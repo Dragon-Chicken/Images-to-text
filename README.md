@@ -1,7 +1,7 @@
 ## Images to text
 A image to text program made with Python
 
-[Some examples](https://github.com/Dragon-Chicken/Images-to-text/edit/main/README.md#examples)
+[Some examples](https://github.com/Dragon-Chicken/Images-to-text/tree/main#examples)
 
 ## Python modules
 Pillow
