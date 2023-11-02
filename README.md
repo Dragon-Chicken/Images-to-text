@@ -1,6 +1,8 @@
 ## Images to text
 A image to text program made with Python
 
+[Some examples](https://github.com/Dragon-Chicken/Images-to-text/edit/main/README.md#examples)
+
 ## Python modules
 Pillow
 
@@ -22,3 +24,8 @@ Pillow
     set to 'None' to use the default font
 
    (some fonts don't support the gradient characters)
+
+## Examples
+![Example 1](https://github.com/Dragon-Chicken/Images-to-text/assets/70321204/20b0b307-a8dd-49e3-8eac-a3445438d773)
+![Example 2](https://github.com/Dragon-Chicken/Images-to-text/assets/70321204/a9330352-3eb6-4dcd-b671-e1a81ae05de5)
+![Example 3](https://github.com/Dragon-Chicken/Images-to-text/assets/70321204/dc7c7bf5-b270-4bc1-8bff-b5d4661d5896)
