@@ -4,7 +4,8 @@ A image to text program made with Python
 [Some examples](https://github.com/Dragon-Chicken/Images-to-text/tree/main#examples)
 
 ## Python modules
-Pillow
+Install with pip
+1. Pillow
 
 ## Settings
 1. 'chars' is the gradient
